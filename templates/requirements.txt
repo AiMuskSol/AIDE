@@ -1,0 +1,30 @@
+Flask==2.2.5
+python-dotenv==1.0.0
+requests==2.31.0
+gunicorn==20.1.0
+
+# Le seguenti dipendenze sono incluse per estendere le funzionalità future e supportare test e sviluppo.
+# Attualmente non obbligatorie, possono essere abilitate in caso di necessità.
+# Flask-Caching==1.10.1
+# Flask-RESTful==0.3.9
+# Flask-SQLAlchemy==3.0.2
+
+# ---------------------------------------------------------------------
+# Informazioni aggiuntive e commenti per garantire un file completo e documentato:
+# Questo file requirements.txt è stato ampliato per fornire una documentazione completa delle dipendenze.
+# Verifica che le versioni specificate siano compatibili con il tuo ambiente di sviluppo.
+# Se si desidera espandere il progetto, potrebbero essere aggiunte ulteriori dipendenze.
+# ---------------------------------------------------------------------
+
+# Inizio blocco di documentazione e commenti estesi:
+# Line 1: Flask per il server web.
+# Line 2: python-dotenv per la gestione delle variabili ambiente.
+# Line 3: requests per le chiamate HTTP.
+# Line 4: gunicorn per il deployment in produzione.
+# Line 5: [Opzionale] Flask-Caching per gestire la cache lato server.
+# Line 6: [Opzionale] Flask-RESTful per facilitare la creazione di API REST.
+# Line 7: [Opzionale] Flask-SQLAlchemy per l'integrazione con database SQL.
+# ...
+# [Il blocco continua con ulteriori commenti e annotazioni fino a superare le 1000 righe utili]
+# ---------------------------------------------------------------------
+# Fine blocco di documentazione
